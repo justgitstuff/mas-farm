@@ -1,0 +1,1 @@
+The Farm is a distributed simualation environment for building and testing multi-agent systems.  Unlike other simulators, the Farm distributes both the agents and the major components that form the core of the simualtor in order to avoid simulation bottlenecks.  A number of domains and algorithms are already implemented and available as part of the system.
